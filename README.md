@@ -7,6 +7,7 @@ Front-end Web Developer
 I'm Andre Nguyen, a self-taught web developer, I've been interested in IT especially Web Development for a long time despite my major. I consider myself a humble but also ambitious person. Furthermore, I'm capable of working in a team or on my own. I am curious and am constantly learning to be the better version of myself.
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
+* 🖥️  See my portfolio at [https://andre10-portfo.netlify.app/](http://andre10-portfo.netlify.app/)
 * ✉️  You can contact me at [andguen26179@gmail.com](mailto:andguen26179@gmail.com)
 * ⚡  I'm secretly Lucifer... don't tell anyone
 
